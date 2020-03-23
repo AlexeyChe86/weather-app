@@ -1,7 +1,7 @@
 ## Weather app
 Weather Mobile application IOS
 
-## Tehnology
+## Technology
 - Swift
 - SwiftUI
 
