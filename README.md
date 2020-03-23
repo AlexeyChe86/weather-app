@@ -2,8 +2,8 @@
 Weather Mobile application IOS
 
 ## Tehnology
-Language: Swift
-UI: SwiftUI
+- Swift
+- SwiftUI
 
 ## Pattern
 MVVM
