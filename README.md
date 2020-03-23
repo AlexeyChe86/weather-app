@@ -1,11 +1,12 @@
-# weather-app
+## weather-app
 Weather Mobile application IOS
 
-# Tehnology
+## Tehnology
 Language: Swift
 UI: SwiftUI
 
-# Pattern
+## Pattern
 MVVM
 
+## API 
 ###### Use API from (https://darksky.net/)
