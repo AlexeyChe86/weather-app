@@ -1,4 +1,4 @@
-## weather-app
+## Weather app
 Weather Mobile application IOS
 
 ## Tehnology
